@@ -16,7 +16,7 @@ cd proffy
 # Instale as dependências
 npm install
 
-# Executar o servidor
+# Execute o servidor
 npm run dev
 
 ```
